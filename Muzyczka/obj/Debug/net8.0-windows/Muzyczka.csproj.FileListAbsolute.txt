@@ -1,0 +1,17 @@
+C:\Users\vapek12\Desktop\Muzyczka\Muzyczka\obj\Debug\net8.0-windows\MojeDźwiękiApp.Form1.resources
+C:\Users\vapek12\Desktop\Muzyczka\Muzyczka\obj\Debug\net8.0-windows\Muzyczka.csproj.GenerateResource.cache
+C:\Users\vapek12\Desktop\Muzyczka\Muzyczka\obj\Debug\net8.0-windows\Muzyczka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vapek12\Desktop\Muzyczka\Muzyczka\obj\Debug\net8.0-windows\Muzyczka.AssemblyInfoInputs.cache
+C:\Users\vapek12\Desktop\Muzyczka\Muzyczka\obj\Debug\net8.0-windows\Muzyczka.AssemblyInfo.cs
+C:\Users\vapek12\Desktop\Muzyczka\Muzyczka\obj\Debug\net8.0-windows\Muzyczka.csproj.CoreCompileInputs.cache
+C:\Users\vapek12\Desktop\Muzyczka\Muzyczka\bin\Debug\net8.0-windows\Muzyczka.exe
+C:\Users\vapek12\Desktop\Muzyczka\Muzyczka\bin\Debug\net8.0-windows\Muzyczka.deps.json
+C:\Users\vapek12\Desktop\Muzyczka\Muzyczka\bin\Debug\net8.0-windows\Muzyczka.runtimeconfig.json
+C:\Users\vapek12\Desktop\Muzyczka\Muzyczka\bin\Debug\net8.0-windows\Muzyczka.dll
+C:\Users\vapek12\Desktop\Muzyczka\Muzyczka\bin\Debug\net8.0-windows\Muzyczka.pdb
+C:\Users\vapek12\Desktop\Muzyczka\Muzyczka\obj\Debug\net8.0-windows\Muzyczka.dll
+C:\Users\vapek12\Desktop\Muzyczka\Muzyczka\obj\Debug\net8.0-windows\refint\Muzyczka.dll
+C:\Users\vapek12\Desktop\Muzyczka\Muzyczka\obj\Debug\net8.0-windows\Muzyczka.pdb
+C:\Users\vapek12\Desktop\Muzyczka\Muzyczka\obj\Debug\net8.0-windows\Muzyczka.genruntimeconfig.cache
+C:\Users\vapek12\Desktop\Muzyczka\Muzyczka\obj\Debug\net8.0-windows\ref\Muzyczka.dll
+C:\Users\vapek12\Desktop\Muzyczka\Muzyczka\obj\Debug\net8.0-windows\Muzyczka.Properties.Resources.resources
